@@ -1,0 +1,180 @@
+{
+    "anims": [
+        {
+            "key": "body_ladder",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "body",
+                    "frame": "body_ladder_0"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_ladder_1"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_ladder_2"
+                }
+            ]
+        },
+        {
+            "key": "body_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "body",
+                    "frame": "body_walk1_0"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_walk1_1"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_walk1_2"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_walk1_3"
+                }
+            ]
+        },
+        {
+            "key": "body_swing02",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "body",
+                    "frame": "body_swing02_0"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_swing02_1"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_swing02_2"
+                }
+            ]
+        },
+        {
+            "key": "body_swing01",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "body",
+                    "frame": "body_swing01_0"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_swing01_1"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_swing01_2"
+                }
+            ]
+        },
+        {
+            "key": "body_stand",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "body",
+                    "frame": "body_stand1_0"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_stand1_1"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_stand1_2"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_stand1_3"
+                }
+            ]
+        },
+        {
+            "key": "body_stab",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "body",
+                    "frame": "body_stab_0"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_stab_1"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_stab_2"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_stab02_0"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_stab02_1"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_stab02_2"
+                }
+            ]
+        },
+        {
+            "key": "body_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "body",
+                    "frame": "body_jump_0"
+                }
+            ]
+        },
+        {
+            "key": "body_alert",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "body",
+                    "frame": "body_alert_0"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_alert_1"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_alert_2"
+                },
+                {
+                    "key": "body",
+                    "frame": "body_alert_3"
+                }
+            ]
+        }
+    ]
+}

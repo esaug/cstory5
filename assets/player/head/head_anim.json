@@ -1,0 +1,180 @@
+{
+    "anims": [
+        {
+            "key": "head_ladder",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "head",
+                    "frame": "head_ladder_0"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_ladder_1"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_ladder_2"
+                }
+            ]
+        },
+        {
+            "key": "head_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "head",
+                    "frame": "head_walk1_0"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_walk1_1"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_walk1_2"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_walk1_3"
+                }
+            ]
+        },
+        {
+            "key": "head_swing02",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "head",
+                    "frame": "head_swing02_0"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_swing02_1"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_swing02_2"
+                }
+            ]
+        },
+        {
+            "key": "head_swing01",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "head",
+                    "frame": "head_swing01_0"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_swing01_1"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_swing01_2"
+                }
+            ]
+        },
+        {
+            "key": "head_stand",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "head",
+                    "frame": "head_stand1_0"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_stand1_1"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_stand1_2"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_stand1_3"
+                }
+            ]
+        },
+        {
+            "key": "head_stab",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "head",
+                    "frame": "head_stab_0"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_stab_1"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_stab_2"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_stab02_0"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_stab02_1"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_stab02_2"
+                }
+            ]
+        },
+        {
+            "key": "head_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "head",
+                    "frame": "head_jump_0"
+                }
+            ]
+        },
+        {
+            "key": "head_alert",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "head",
+                    "frame": "head_alert_0"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_alert_1"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_alert_2"
+                },
+                {
+                    "key": "head",
+                    "frame": "head_alert_3"
+                }
+            ]
+        }
+    ]
+}

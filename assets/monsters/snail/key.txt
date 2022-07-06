@@ -1,0 +1,4 @@
+key: snail
+die: snail_die
+walk: snail_walk
+hit: snail_hit

@@ -1,0 +1,180 @@
+{
+    "anims": [
+        {
+            "key": "arm_ladder",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "arm",
+                    "frame": "arm_ladder_0"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_ladder_1"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_ladder_2"
+                }
+            ]
+        },
+        {
+            "key": "arm_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "arm",
+                    "frame": "arm_walk1_0"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_walk1_1"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_walk1_2"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_walk1_3"
+                }
+            ]
+        },
+        {
+            "key": "arm_swing02",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "arm",
+                    "frame": "arm_swing02_0"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_swing02_1"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_swing02_2"
+                }
+            ]
+        },
+        {
+            "key": "arm_swing01",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "arm",
+                    "frame": "arm_swing01_0"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_swing01_1"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_swing01_2"
+                }
+            ]
+        },
+        {
+            "key": "arm_stand",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "arm",
+                    "frame": "arm_stand1_0"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_stand1_1"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_stand1_2"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_stand1_3"
+                }
+            ]
+        },
+        {
+            "key": "arm_stab",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "arm",
+                    "frame": "arm_stab_0"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_stab_1"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_stab_2"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_stab02_1"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_stab02_0"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_stab02_2"
+                }
+            ]
+        },
+        {
+            "key": "arm_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "arm",
+                    "frame": "arm_jump_0"
+                }
+            ]
+        },
+        {
+            "key": "arm_alert",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "arm",
+                    "frame": "arm_alert_0"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_alert_1"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_alert_2"
+                },
+                {
+                    "key": "arm",
+                    "frame": "arm_alert_3"
+                }
+            ]
+        }
+    ]
+}

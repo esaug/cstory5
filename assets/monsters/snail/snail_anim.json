@@ -1,0 +1,88 @@
+{
+    "anims": [
+        {
+            "key": "snail_hit",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "snail",
+                    "frame": "die1-0"
+                }
+            ]
+        },
+        {
+            "key": "snail_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "snail",
+                    "frame": "move-0"
+                },
+                {
+                    "key": "snail",
+                    "frame": "move-1"
+                },
+                {
+                    "key": "snail",
+                    "frame": "move-2"
+                },
+                {
+                    "key": "snail",
+                    "frame": "move-3"
+                },
+                {
+                    "key": "snail",
+                    "frame": "move-4"
+                }
+            ]
+        },
+        {
+            "key": "snail_die",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "snail",
+                    "frame": "die1-0"
+                },
+                {
+                    "key": "snail",
+                    "frame": "die1-1"
+                },
+                {
+                    "key": "snail",
+                    "frame": "die1-2"
+                },
+                {
+                    "key": "snail",
+                    "frame": "die1-3"
+                },
+                {
+                    "key": "snail",
+                    "frame": "die1-4"
+                },
+                {
+                    "key": "snail",
+                    "frame": "die1-5"
+                },
+                {
+                    "key": "snail",
+                    "frame": "die1-6"
+                },
+                {
+                    "key": "snail",
+                    "frame": "die1-7"
+                },
+                {
+                    "key": "snail",
+                    "frame": "die1-8"
+                }
+            ]
+        }
+    ]
+}
